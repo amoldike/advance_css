@@ -1,0 +1,7 @@
+1. Git Installation/(CLI-command-line interface)
+2. Git Setup
+3. Github Account Setup
+   --> git config --global user.name
+   --> git config --global user.email
+4. Arrange Your Tasks
+5. Tasks Push
